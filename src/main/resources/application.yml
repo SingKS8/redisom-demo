@@ -1,0 +1,6 @@
+spring:
+  data:
+    redis:
+      client-type: jedis
+      host: 192.168.2.211
+      port: 31379
